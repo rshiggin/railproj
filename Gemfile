@@ -27,6 +27,9 @@ gem 'carrierwave'
 # Use devise for managing users
 gem 'devise', '~> 3.4.0'
 
+# Add gravtastic dependency to devise
+gem 'gravtastic', '~> 3.2.6'
+
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
 

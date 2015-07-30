@@ -36,7 +36,12 @@
       <%= link_to "Login", new_user_session_path, :class => 'navbar-link'  %>
     <% end %>
   </p>
-</li>
+</li>           
+ <% if user_signed_in? %>         
+<li>          
+<p><%= image_tag current_user.gravatar_url %> </p>           
+</li>  
+ <% end %>            
       </ul>
     </div>
   </div>
