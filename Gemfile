@@ -21,8 +21,11 @@ gem 'mini_magick', '~> 3.7.0'
 # See https://github.com/rails/execjs#readme for more supported runtimes
 # gem 'therubyracer', platforms: :ruby
 
-# Use carrierwave
+# Use carrierwave for managing images
 gem 'carrierwave'
+
+# Use devise for managing users
+gem 'devise', '~> 3.4.0'
 
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
