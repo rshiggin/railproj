@@ -1,28 +1,5 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This small Ruby on Rails application was created as part of #HILT2015, in the course "Introduction to Humanities Programming for Humanists" taught by Wayne Graham and Brandon Walsh of the ![Scholars' Lab](http://scholarslab.org) at the University of Virgina.   
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+IUPUI, Indianapolis, IN. 30 July 2015.
