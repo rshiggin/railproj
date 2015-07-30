@@ -12,8 +12,7 @@
 
 <p>
   <strong>Picture:</strong>
-  <%= @transcription.picture %>
-</p>
+<%= image_tag(@transcription.picture_url, :width => 600) if @transcription.picture.present? %><p>
 
 <p>
   <strong>Description:</strong>
