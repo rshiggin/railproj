@@ -19,10 +19,4 @@
 /log/*
 !/log/.keep
 /tmp
-<<<<<<< HEAD
-public/uploads/
-public/uploads
-tmp
-logs
-=======
->>>>>>> 2c304bc62105173ae94ac3d51c8e395e75848665
+
