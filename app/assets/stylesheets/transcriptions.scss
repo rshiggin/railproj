@@ -2,7 +2,7 @@
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
 
-$base-color: #AD141E;
+$base-color: #5F9EA0;
 $lightgray: #999;
 $black: #000;
 $white: #FFF;
@@ -52,7 +52,7 @@ th {
   @include border-radius(10px);
 }
 
-$base-color: #AD141E;
+$base-color: #5F9EA0;
 $lighter: lighten($base-color, 20% );
 $darker: darken($base-color, 20% );
 $transparent: rgba($base-color, 0.7 );
