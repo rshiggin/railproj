@@ -6,6 +6,7 @@
 
 # Ignore GitHub .md files
 /README.md
+/*.md
 
 # Ignore bundler config.
 /.bundle
